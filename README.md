@@ -1,4 +1,4 @@
-# Bank Credit Risk & Loan Portfolio dashboard
+# Bank Credit Risk & Loan Portfolio Analysis
 ![screenshot](https://github.com/chai-mae98/bank-credit-risk-analysis/blob/main/dashboard.png)
 
 
@@ -83,7 +83,7 @@ Calculated key portfolio indicators including:
 
 •	Total loan amount
 
-•	Average loan amount
+•	Average Interest Rate  
 
 •	Overall observed default rate
 
@@ -167,7 +167,7 @@ This KPI represents the **percentage of loans classified as defaulted** in the a
 
 ---
 
-# 7. KPI Summary
+# 📋 KPI Summary
 
 | **KPI**                           | **Dashboard Value** | **Business Meaning**                        |
 | --------------------------------- | ------------------: | ------------------------------------------- |
@@ -322,7 +322,7 @@ The dashboard provides a high-level view of **portfolio size, loan exposure, ave
 
 The main dashboard KPIs are:
 
-> 💰 **Total Loan Amount — $310.9M**
+> 💰 **Total Loan Amount — 310.9M**
 > 📋 **Total Loans — 32,409**
 > 📈 **Average Interest Rate — 11.01%**
 > ⚠️ **Overall Observed Default Rate — 21.87%**
