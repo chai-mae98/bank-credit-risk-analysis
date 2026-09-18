@@ -64,7 +64,7 @@ In this dataset:
 ## 🧮 Analysis Methodology
 The project followed these main steps:
 
-1. Data Preparation:
+### 1. Data Preparation:
 
 •	Reviewed the raw loan dataset
 
@@ -75,29 +75,46 @@ The project followed these main steps:
 •	Created analytical categories where appropriate
 
 
-3. KPI Calculation:
+### 2. KPI Calculation:
+
 Calculated key portfolio indicators including:
+
 •	Total number of loans
+
 •	Total loan amount
+
 •	Average loan amount
+
 •	Overall default rate
 
-4. Risk Segmentation:
+### 3. Risk Segmentation:
+
 The portfolio was segmented according to:
+
 •	Previous default history
+
 •	Home ownership
+
 •	Income burden
+
 •	Interest-rate categories
 
-5. PivotTable Analysis:
+### 4. PivotTable Analysis:
+
 PivotTables were used to calculate default rates and analyze relationships between borrower/loan characteristics and credit risk.
 
-6. Dashboard Development:
+### 5. Dashboard Development:
+
 The final dashboard combines
+
 •	KPI cards
+
 •	Risk analysis charts
+
 •	Category comparisons
+
 •	Interactive filters/slicers
+
 •	Financial risk insights
 
 ---
