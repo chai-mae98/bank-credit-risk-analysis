@@ -10,3 +10,12 @@ This project analyzes a bank loan portfolio to identify key factors associated w
 The analysis was developed entirely in Microsoft Excel, using data cleaning, calculated fields, PivotTables, PivotCharts, slicers, and interactive dashboard techniques.
 
 The objective is to transform raw loan-level data into a clear and structured financial analysis, helping identify risk patterns and portfolio segments associated with higher observed default rates.
+
+## 🎯 Business Problem
+
+Banks need to continuously monitor their loan portfolios to understand their **credit risk exposure** and identify borrower and loan segments associated with higher observed default rates.
+
+The main business question addressed in this project is:
+
+> **How can a bank analyze its loan portfolio to better understand credit risk and identify borrower and loan segments associated with higher observed default rates?**
+
