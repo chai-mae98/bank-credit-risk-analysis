@@ -1,3 +1,7 @@
+# Bank Credit Risk & Loan Portfolio Analysis
+
+![Bank Credit Risk Dashboard](images/dashboard.png)
+
 # 🏦 Bank Credit Risk & Loan Portfolio Analysis
 
 ## 📌 Project Overview
