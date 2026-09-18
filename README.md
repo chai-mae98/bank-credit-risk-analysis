@@ -18,4 +18,22 @@ Banks need to continuously monitor their loan portfolios to understand their **c
 The main business question addressed in this project is:
 
 > **How can a bank analyze its loan portfolio to better understand credit risk and identify borrower and loan segments associated with higher observed default rates?**
+>
+> 
+> ## 🎯 Project Objectives
+
+The main objectives of this analysis are to:
+
+* Analyze the overall loan portfolio and its risk profile.
+* Measure total loan exposure and portfolio size.
+* Calculate key portfolio KPIs.
+* Measure the overall observed default rate.
+* Analyze default rates across borrower characteristics.
+* Analyze default rates across loan characteristics.
+* Examine the relationship between income burden and observed default rates.
+* Compare observed default rates across interest-rate categories.
+* Analyze the role of previous default history in portfolio risk.
+* Identify borrower and loan segments associated with higher observed default rates.
+* Build an interactive **Excel dashboard** to communicate the analysis and key findings.
+
 
