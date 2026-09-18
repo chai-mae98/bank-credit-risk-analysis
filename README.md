@@ -60,5 +60,35 @@ In this dataset:
 * `loan_status = 1` represents default.
 * `loan_status = 0` represents non-default.
 
+
+## 🧮 Analysis Methodology
+The project followed these main steps:
+#1. Data Preparation
+•	Reviewed the raw loan dataset
+•	Checked the available variables
+•	Prepared the data for analysis
+•	Created analytical categories where appropriate
+2. KPI Calculation
+Calculated key portfolio indicators including:
+•	Total number of loans
+•	Total loan amount
+•	Average loan amount
+•	Overall default rate
+3. Risk Segmentation
+The portfolio was segmented according to:
+•	Previous default history
+•	Home ownership
+•	Income burden
+•	Interest-rate categories
+4. PivotTable Analysis
+PivotTables were used to calculate default rates and analyze relationships between borrower/loan characteristics and credit risk.
+5. Dashboard Development
+The final dashboard combines:
+•	KPI cards
+•	Risk analysis charts
+•	Category comparisons
+•	Interactive filters/slicers
+•	Financial risk insights
+
 ---
 
