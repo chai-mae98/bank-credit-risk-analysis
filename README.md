@@ -20,8 +20,7 @@ The main business question addressed in this project is:
 > **How can a bank analyze its loan portfolio to better understand credit risk and identify borrower and loan segments associated with higher observed default rates?**
 
 
-
-> ## 🎯 Project Objectives
+## 🎯 Project Objectives
 
 The main objectives of this analysis are to:
 
