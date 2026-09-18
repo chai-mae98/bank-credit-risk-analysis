@@ -305,4 +305,43 @@ This project demonstrates the following **Data Analyst and Financial Analyst ski
 * Financial Reporting
 
 
+# 📌 Portfolio/Resume Project Description
+
+### **Bank Credit Risk & Loan Portfolio Analysis | Microsoft Excel**
+
+> Developed an interactive **Microsoft Excel dashboard** to analyze a loan portfolio of **32,409 loan records**, focusing on portfolio exposure, interest rates, and observed credit risk. Created KPI calculations for **Total Loans, Total Loan Amount, Average Interest Rate, and Overall Observed Default Rate**. Analyzed observed default rates across previous default history, home ownership, income burden, and interest-rate categories using PivotTables, PivotCharts, slicers, and dashboard visualizations.
+
+### Resume Bullet Points
+
+* Developed an interactive **Excel Credit Risk & Loan Portfolio Dashboard** analyzing **32,409 loan records** and **$310.9M in total loan exposure**.
+* Created portfolio KPIs including **Total Loans, Total Loan Amount, Average Interest Rate, and Overall Observed Default Rate**.
+* Analyzed observed default rates across **previous default history, home ownership, income burden, and interest-rate categories**.
+* Identified portfolio segments associated with higher observed default rates, including **Very High income burden (78.00%)**, **Very High interest-rate category (63.30%)**, and borrowers with **Previous Default history (37.86%)**.
+* Applied **Excel formulas, PivotTables, PivotCharts, slicers, data analysis, and dashboard visualization techniques** to transform loan-level data into a structured financial risk analysis.
+
+---
+
+# 💡 Final Project Summary
+
+**Bank Credit Risk & Loan Portfolio Analysis** is an Excel-based financial analytics project that transforms loan-level data into an interactive **credit risk and portfolio analysis dashboard**.
+
+The dashboard provides a high-level view of **portfolio size, loan exposure, average interest rate, observed default rate, and risk patterns across different borrower and loan segments**.
+
+The main dashboard KPIs are:
+
+> 💰 **Total Loan Amount — $310.9M**
+> 📋 **Total Loans — 32,409**
+> 📈 **Average Interest Rate — 11.01%**
+> ⚠️ **Overall Observed Default Rate — 21.87%**
+
+Key observed risk patterns include:
+
+* **Previous Default:** 37.86% observed default rate
+* **No Previous Default:** 18.44%
+* **RENT:** 31.61%
+* **OWN:** 7.49%
+* **Very High Income Burden:** 78.00%
+* **Very High Interest-Rate Category:** 63.30%
+
+> **Note:** These findings describe relationships observed within the analyzed dataset and should not be interpreted as proof that any individual factor independently causes loan default.
 
