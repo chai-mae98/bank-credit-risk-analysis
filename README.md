@@ -289,20 +289,13 @@ Used for:
 This project demonstrates the following **Data Analyst and Financial Analyst skills**:
 
 * Microsoft Excel
-* Data Cleaning
-* Data Preparation
-* Data Analysis
+* Data Cleaning & Preparation
 * KPI Development
 * Credit Risk Analysis
 * Loan Portfolio Analysis
-* Financial Data Analysis
-* Exploratory Data Analysis (EDA)
 * Risk Segmentation
-* PivotTable Analysis
 * Data Visualization
 * Interactive Dashboard Development
-* Business Insight Generation
-* Financial Reporting
 
 
 # 📌 Portfolio/Resume Project Description
