@@ -236,3 +236,84 @@ However, this descriptive relationship should not be interpreted as evidence tha
 > **Important:** These findings describe relationships observed in the dataset. They should not be interpreted as proof that any specific variable independently causes loan default.
 
 
+# 🛠️ Tools & Technologies
+
+[svg](#-tools--technologies)
+
+### Microsoft Excel
+
+[svg](#microsoft-excel)
+
+Used for:
+
+* Data cleaning and preparation
+* Data analysis
+* Excel formulas and calculated fields
+* KPI calculations
+* PivotTables
+* PivotCharts
+* Interactive dashboard development
+* Slicers and filtering
+* Financial and credit risk analysis
+
+### PivotTables & PivotCharts
+
+[svg](#pivottables--pivotcharts)
+
+Used for:
+
+* Portfolio segmentation
+* Default rate analysis
+* Comparing borrower characteristics
+* Comparing loan characteristics
+* Identifying risk patterns
+* Creating analytical charts and visualizations
+
+### Excel Slicers
+
+[svg](#excel-slicers)
+
+Used for:
+
+* Interactive filtering
+* Portfolio exploration
+* Segment-level analysis
+* Dynamic dashboard navigation
+* Exploring credit risk patterns across categories
+
+### VBA
+
+[svg](#vba)
+
+Used for:
+
+* Supporting interactive slicer functionality
+* Connecting dashboard elements and tables
+* Improving dashboard usability
+
+---
+
+# 19. Skills Demonstrated
+
+[svg](#19-skills-demonstrated)
+
+This project demonstrates the following **Data Analyst and Financial Analyst skills**:
+
+* Microsoft Excel
+* Data Cleaning
+* Data Preparation
+* Data Analysis
+* KPI Development
+* Credit Risk Analysis
+* Loan Portfolio Analysis
+* Financial Data Analysis
+* Exploratory Data Analysis (EDA)
+* Risk Segmentation
+* PivotTable Analysis
+* Data Visualization
+* Interactive Dashboard Development
+* Business Insight Generation
+* Financial Reporting
+
+
+
