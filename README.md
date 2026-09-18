@@ -65,19 +65,24 @@ In this dataset:
 The project followed these main steps:
 
 1. Data Preparation:
+
 •	Reviewed the raw loan dataset
+
 •	Checked the available variables
+
 •	Prepared the data for analysis
+
 •	Created analytical categories where appropriate
 
-2. KPI Calculation:
+
+3. KPI Calculation:
 Calculated key portfolio indicators including:
 •	Total number of loans
 •	Total loan amount
 •	Average loan amount
 •	Overall default rate
 
-3. Risk Segmentation:
+4. Risk Segmentation:
 The portfolio was segmented according to:
 •	Previous default history
 •	Home ownership
