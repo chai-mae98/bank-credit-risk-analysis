@@ -1,6 +1,5 @@
 # Bank Credit Risk & Loan Portfolio Analysis
-
-![Bank Credit Risk Dashboard](screenshot/dashboard.png)
+https://github.com/chai-mae98/bank-credit-risk-analysis/blob/main/dashboard.png
 
 # 🏦 Bank Credit Risk & Loan Portfolio Analysis
 
