@@ -62,13 +62,13 @@ In this dataset:
 
 
 ## 🧮 Analysis Methodology
-The project followed these main steps:
+The project followed a structured analytical process, from data preparation to dashboard development.
 
 ### 1. Data Preparation:
 
 •	Reviewed the raw loan dataset
 
-•	Checked the available variables
+•	Checked the available variables and data structure 
 
 •	Prepared the data for analysis
 
@@ -85,11 +85,11 @@ Calculated key portfolio indicators including:
 
 •	Average loan amount
 
-•	Overall default rate
+•	Overall observed default rate
 
 ### 3. Risk Segmentation:
 
-The portfolio was segmented according to:
+The loan portfolio was segmented according to:
 
 •	Previous default history
 
@@ -99,13 +99,23 @@ The portfolio was segmented according to:
 
 •	Interest-rate categories
 
-### 4. PivotTable Analysis:
+These segments were used to compare observed default rates across different borrower and loan characteristics.
 
-PivotTables were used to calculate default rates and analyze relationships between borrower/loan characteristics and credit risk.
+### 4. PivotTable Analysis:
+PivotTables were used to:
+
+• Calculate observed default rates.
+
+• Compare portfolio segments.
+
+• Analyze borrower and loan characteristics.
+
+• Identify segments associated with higher observed default rates.
+
 
 ### 5. Dashboard Development:
 
-The final dashboard combines
+The final Excel dashboard combines:
 
 •	KPI cards
 
@@ -118,4 +128,111 @@ The final dashboard combines
 •	Financial risk insights
 
 ---
+
+## 📈 Key Portfolio KPIs
+
+The dashboard contains **four major KPI cards** that provide a high-level overview of the analyzed loan portfolio.
+
+### KPI 1 — Total Loans
+
+**Dashboard Value: 32,409**
+
+This KPI represents the **total number of loans** included in the analyzed portfolio.
+
+**Purpose:** Provides an overview of the portfolio size and the number of loan records analyzed.
+
+### KPI 2 — Total Loan Amount
+
+**Dashboard Value: $310.9M**
+
+This KPI represents the **total loan amount** across all loans included in the dataset.
+
+**Purpose:** Measures the overall loan exposure represented by the analyzed portfolio.
+
+### KPI 3 — Average Interest Rate
+
+**Dashboard Value: 11.01%**
+
+This KPI represents the **average interest rate** across the analyzed loans.
+
+**Purpose:** Provides an overview of the average pricing level of the loan portfolio.
+
+### KPI 4 — Overall Observed Default Rate
+
+**Dashboard Value: 21.87%**
+
+This KPI represents the **percentage of loans classified as defaulted** in the analyzed dataset.
+
+**Purpose:** Provides a high-level indicator of the observed credit-risk profile of the portfolio.
+
+---
+
+# 7. KPI Summary
+
+| **KPI**                           | **Dashboard Value** | **Business Meaning**                        |
+| --------------------------------- | ------------------: | ------------------------------------------- |
+| **Total Loans**                   |          **32,409** | Total number of loans analyzed              |
+| **Total Loan Amount**             |         **$310.9M** | Total loan exposure in the portfolio        |
+| **Average Interest Rate**         |          **11.01%** | Average interest rate across analyzed loans |
+| **Overall Observed Default Rate** |          **21.87%** | Percentage of loans classified as defaulted |
+
+> **Important:** These KPI values provide a high-level summary of the analyzed dataset. The observed default rate describes the proportion of loans classified as defaulted within this dataset and should not be interpreted as a standalone measure of future default probability.
+
+
+## 🔎 Key Risk Insights
+
+### 1. Previous Default History
+
+Borrowers with a previous recorded default have a higher observed default rate than borrowers without a previous recorded default.
+
+* **Previous Default:** 37.86%
+* **No Previous Default:** 18.44%
+
+This highlights the importance of **historical credit behavior** when analyzing and segmenting portfolio risk.
+
+---
+
+### 2. Home Ownership
+
+Observed default rates vary substantially across home-ownership categories.
+
+* **RENT:** 31.61%
+* **OWN:** 7.49%
+
+The difference indicates that home-ownership status is associated with different observed risk levels in this dataset and can therefore be useful for **portfolio segmentation and risk monitoring**.
+
+---
+
+### 3. Income Burden
+
+Observed default rates increase significantly across the loan-to-income burden categories.
+
+| Income Burden | Observed Default Rate |
+| ------------- | --------------------: |
+| Low           |            **13.56%** |
+| Medium        |            **36.30%** |
+| High          |            **73.97%** |
+| Very High     |            **78.00%** |
+
+The results show a strong association between **higher loan-to-income burden and higher observed default rates** in the analyzed dataset.
+
+---
+
+### 4. Interest Rate
+
+Observed default rates also increase across the interest-rate categories.
+
+| Interest Rate Category | Observed Default Rate |
+| ---------------------- | --------------------: |
+| Low                    |             **9.37%** |
+| Medium                 |            **16.85%** |
+| High                   |            **31.30%** |
+| Very High              |            **63.30%** |
+
+The results show a clear association between **higher interest-rate categories and higher observed default rates**.
+
+However, this descriptive relationship should not be interpreted as evidence that higher interest rates directly cause default. Interest rates may also reflect **underlying borrower risk and other factors**.
+
+> **Important:** These findings describe relationships observed in the dataset. They should not be interpreted as proof that any specific variable independently causes loan default.
+
 
