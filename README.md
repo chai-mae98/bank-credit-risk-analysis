@@ -143,7 +143,7 @@ This KPI represents the **total number of loans** included in the analyzed portf
 
 ### KPI 2 — Total Loan Amount
 
-**Dashboard Value: $310.9M**
+**Dashboard Value: 310.9M**
 
 This KPI represents the **total loan amount** across all loans included in the dataset.
 
@@ -172,7 +172,7 @@ This KPI represents the **percentage of loans classified as defaulted** in the a
 | **KPI**                           | **Dashboard Value** | **Business Meaning**                        |
 | --------------------------------- | ------------------: | ------------------------------------------- |
 | **Total Loans**                   |          **32,409** | Total number of loans analyzed              |
-| **Total Loan Amount**             |         **$310.9M** | Total loan exposure in the portfolio        |
+| **Total Loan Amount**             |         **310.9M** | Total loan exposure in the portfolio        |
 | **Average Interest Rate**         |          **11.01%** | Average interest rate across analyzed loans |
 | **Overall Observed Default Rate** |          **21.87%** | Percentage of loans classified as defaulted |
 
