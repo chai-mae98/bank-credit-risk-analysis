@@ -18,8 +18,9 @@ Banks need to continuously monitor their loan portfolios to understand their **c
 The main business question addressed in this project is:
 
 > **How can a bank analyze its loan portfolio to better understand credit risk and identify borrower and loan segments associated with higher observed default rates?**
->
-> 
+
+
+
 > ## 🎯 Project Objectives
 
 The main objectives of this analysis are to:
@@ -33,4 +34,32 @@ The main objectives of this analysis are to:
 - Analyze the role of previous default history in portfolio risk.
 - Identify borrower and loan segments associated with higher observed default rates.
 - Build an interactive **Excel dashboard** to communicate key findings.
+
+
+## 📊 Dataset
+
+The dataset contains information about borrowers, their loans, and their credit history.
+- <a href="https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment/data">Bank Credit Risk & Loan Portfolio</a>
+### Main Variables
+
+| Variable                     | Description                       |
+| ---------------------------- | --------------------------------- |
+| `person_age`                 | Borrower's age                    |
+| `person_income`              | Borrower's annual income          |
+| `person_home_ownership`      | Home ownership status             |
+| `person_emp_length`          | Employment length                 |
+| `loan_intent`                | Purpose of the loan               |
+| `loan_amnt`                  | Loan amount                       |
+| `loan_int_rate`              | Loan interest rate                |
+| `loan_status`                | Loan default status               |
+| `loan_percent_income`        | Loan amount relative to income    |
+| `cb_person_default_on_file`  | Previous credit default indicator |
+| `cb_person_cred_hist_length` | Length of credit history          |
+
+In this dataset:
+
+* `loan_status = 1` represents default.
+* `loan_status = 0` represents non-default.
+
+---
 
