@@ -2,7 +2,7 @@
 ![screenshot](https://github.com/chai-mae98/bank-credit-risk-analysis/blob/main/dashboard.png)
 
 
-# 🏦 Bank Credit Risk & Loan Portfolio Analysis-Project Documentation
+# 📊Bank Credit Risk & Loan Portfolio Analysis-Project Documentation
 
 ## 📌 Project Overview
 This project analyzes a bank loan portfolio to identify key factors associated with loan default risk. The analysis focuses on borrower characteristics, loan purpose, income burden, interest rates, home ownership, and previous default history.
