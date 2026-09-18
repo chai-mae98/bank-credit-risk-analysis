@@ -236,13 +236,11 @@ However, this descriptive relationship should not be interpreted as evidence tha
 > **Important:** These findings describe relationships observed in the dataset. They should not be interpreted as proof that any specific variable independently causes loan default.
 
 
-# 🛠️ Tools & Technologies
+# 🛠️ Tools & Skills
 
-[svg](#-tools--technologies)
+## 1.Tools:
 
 ### Microsoft Excel
-
-[svg](#microsoft-excel)
 
 Used for:
 
@@ -258,8 +256,6 @@ Used for:
 
 ### PivotTables & PivotCharts
 
-[svg](#pivottables--pivotcharts)
-
 Used for:
 
 * Portfolio segmentation
@@ -271,8 +267,6 @@ Used for:
 
 ### Excel Slicers
 
-[svg](#excel-slicers)
-
 Used for:
 
 * Interactive filtering
@@ -283,8 +277,6 @@ Used for:
 
 ### VBA
 
-[svg](#vba)
-
 Used for:
 
 * Supporting interactive slicer functionality
@@ -293,10 +285,7 @@ Used for:
 
 ---
 
-# 19. Skills Demonstrated
-
-[svg](#19-skills-demonstrated)
-
+## 2. Skills Demonstrated
 This project demonstrates the following **Data Analyst and Financial Analyst skills**:
 
 * Microsoft Excel
