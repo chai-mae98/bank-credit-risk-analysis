@@ -133,7 +133,7 @@ The final Excel dashboard combines:
 
 The dashboard contains **four major KPI cards** that provide a high-level overview of the analyzed loan portfolio.
 
-- Dashboard Interaction <a href="https://github.com/chai-mae98/bank-credit-risk-analysis/blob/main/bank-credit-risk-dashboard.xlsm">View Dashboard<a/>
+- <a href="https://github.com/chai-mae98/bank-credit-risk-analysis/blob/main/bank-credit-risk-dashboard.xlsm">View Dashboard<a/>
 
 ### KPI 1 — Total Loans
 
